@@ -3,6 +3,7 @@
 ## 👤 Student Details
 
 **Name:** Shivas Seagal K S
+
 **Register Number:** TCR24CS061 
 
 ---
