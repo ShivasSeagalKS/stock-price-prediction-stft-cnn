@@ -1,7 +1,7 @@
 # Stock Price Prediction using STFT and CNN
 
 ## Name: Shivas Seagal K S
-## University Register Number: TCR24CS057
+## University Register Number: TCR24CS061
 
 ---
 
